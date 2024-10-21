@@ -1,0 +1,10 @@
+
+Original file line number	Diff line number	Diff line change
+@@ -32,6 +32,6 @@
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../img/Email.svg") no-repeat;
+    background: url("../img/Email.svg") no-repeat 5%;
+    padding-left: 2em;
+}
